@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">1024妹子</string>
+    <string name="app_description">常回家看看，总有你想看的吧</string>
+
+    <string name="caoliu_tit">妹子首页</string>
+    <string name="porn_video">性感妹子</string>
+    <string name="porn_photo">日本妹子</string>
+    <string name="heil_video">台湾妹子</string>
+    <string name="qing_items">清纯妹子</string>
+    <string name="remen_items">热门妹子</string>
+    <string name="fenlei_items">妹子标签</string>
+    <string name="more_items">更多妹子</string>
+    <string name="share_items">分享应用</string>
+<!--    下面是工具栏-->
+    <string name="home0">永久地址</string>
+    <string name="home1">地址一</string>
+    <string name="home2">地址二</string>
+    <string name="home3">地址三</string>
+    <string name="open">外部打开</string>
+    <string name="old_home">永久地址</string>
+</resources>
